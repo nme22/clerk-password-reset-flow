@@ -1,5 +1,5 @@
 // Add to session claims requirePassReset in dashboard
-// Go through onboarding guide and do the types portion, switch value to true so they go to this route, and then flip value once done.
+
 'use client';
 
 import { useUser } from '@clerk/nextjs';
